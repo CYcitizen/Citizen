@@ -1,2 +1,0 @@
-# Citizen
-Citizen`s project
